@@ -23,7 +23,7 @@ The fourth (and last) chapter applies the previous results on IPMs and f-diverge
 
 We recommend reading the report before reading the notebooks, as most explanations are not duplicated in the notebooks. All notebooks are in Python 3. According to my report, the files should be read in this order:
 1. `ipm-prerequisite.ipynb`: an introductory notebook that help to understand `ipm.ipynb` better
-2. `ipm.ipynb`: core programs that generated the simulations in the chapter II about the Kantorovich metric (an IPM)
-3. `f-divergences.ipynb`: core programs that generated the simulations in the chapter III about the f-divergences
+2. `ipm.ipynb`: core programs that generated the simulations in the chapter II about the Kantorovich metric (an IPM) and also a part of chapter IV
+3. `f-divergences.ipynb`: core programs that generated the simulations in the chapter III about the f-divergences and also a part of chapter IV
 
 Further information is given in the beginning of the notebooks themselves.
