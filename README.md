@@ -2,7 +2,7 @@
 
 _Topics:_ Comparison of empirical probability distributions. Integral probability metrics (e.g. Kantorovich metric). f-divergences (e.g. Kullback-Leibler). Application to the Choquet integral.
 
-_Note:_ The report will be uploaded by mid-February 2020.
+_Note:_ The report will be uploaded by March 2020.
 
 ## Abstract
 
