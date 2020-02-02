@@ -25,3 +25,5 @@ According to my report, the files should be read in this order:
 1. `ipm-prerequisite.ipynb`: an introductory notebook that help to understand `ipm.ipynb` better
 2. `ipm.ipynb`: core programs that generated the simulations in the chapter II about the Kantorovich metric (an IPM)
 3. `f-divergences.ipynb`: core programs that generated the simulations in the chapter III about the f-divergences
+
+Further information is given in the beginning of the notebooks themselves.
