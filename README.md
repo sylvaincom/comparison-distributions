@@ -1,6 +1,6 @@
 # Comparison of Empirical Probability Distributions
 
-Comparison of empirical probability distributions. Integral probability metrics (e.g. Kantorovich metric). f-divergences (e.g. Kullback-Leibler). Application to the Choquet integral.
+_Topics:_ Comparison of empirical probability distributions. Integral probability metrics (e.g. Kantorovich metric). f-divergences (e.g. Kullback-Leibler). Application to the Choquet integral.
 
 ## Abstract
 
@@ -21,7 +21,7 @@ The fourth (and last) chapter applies the previous results on IPMs and f-diverge
 
 ## How to use this repository
 
-We recommend reading the report before reading this notebook,, as most explanations are not duplicated in the notebooks. According to my report, the files should be read in this order:
+We recommend reading the report before reading this notebook, as most explanations are not duplicated in the notebooks. According to my report, the files should be read in this order:
 1. `ipm-prerequisite.ipynb`: an introductory notebook that help to understand `ipm.ipynb` better
 2. `ipm.ipynb`: core programs that generated the simulations in the chapter II about the Kantorovich metric (an IPM)
 3. `f-divergences.ipynb`: core programs that generated the simulations in the chapter III about the f-divergences
