@@ -9,7 +9,7 @@ _Note:_ The report will be uploaded by March 2020.
 This repository completes the report of my final-year project at [Ecole des Mines de Nancy](https://mines-nancy.univ-lorraine.fr/formation/ingenieur-civil-mines-icm/).
 The end goal of this project is to **compare two empirical probability distributions** from two different methods for computing the Choquet integral.
 
-The first chapter is about the **Choquet integral**, a non-linear aggregation operator. We provide a lot of explanations and examples so that someone new to the Choquet integral can get a good understanding of it. %Indeed, understanding deeply how the Choquet integral works can be very useful in order to find the right metric for comparison.
+The first chapter is about the **Choquet integral**, a non-linear aggregation operator. We provide a lot of explanations and examples so that someone new to the Choquet integral can get a good understanding of it.
 
 The second chapter is about **integral probability metrics** (IPMs), a popular estimation of distance measures on probabilities.
 In particular, we deal with the **Kantorovich metric** and the Dudley metric.
