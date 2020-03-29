@@ -1,8 +1,15 @@
 # Comparison of Empirical Probability Distributions
 
-_Topics:_ Comparison of empirical probability distributions. Integral probability metrics (e.g. Kantorovich metric). f-divergences (e.g. Kullback-Leibler). Application to the Choquet integral.
+## Quick preview
 
-_Note:_ The report will be uploaded by March 2020.
+- _Author_: Sylvain Combettes
+- _Dates_: Oct. 2019 - Feb. 2020 (5 months)
+- _Context_: For my final-year project at Mines Nancy (one day per week), I did research for the [CNRS](http://www.cnrs.fr/en), the largest governmental research organisation in France.
+- _Topic_: Comparison of empirical probability distributions. Application to the Choquet integral with stochastic inputs.
+- _Methods_: Integral probability metrics (e.g. Kantorovich metric), f-divergences (e.g. Kullback-Leibler).
+- _Programming_: Python.
+- _Result_: We empirically show that a new method for simulating the Choquet integral is "correct".
+- _Links:_  [[report](https://sylvaincom.github.io/docs/comparison_distributions_report.pdf)] [[slides](https://sylvaincom.github.io/docs/comparison_distributions_slides.pdf)]
 
 ## Abstract
 
@@ -25,7 +32,7 @@ The fourth (and last) chapter applies the previous results on IPMs and f-diverge
 
 We recommend reading the report before reading the notebooks, as most explanations are not duplicated in the notebooks. All notebooks are in Python 3. According to my report, the files should be read in this order:
 1. `ipm-prerequisite.ipynb`: an introductory notebook that helps to understand `ipm.ipynb` better
-2. `ipm.ipynb`: core programs that generated the simulations in the chapter II about the Kantorovich metric (an IPM) and also a part of chapter IV
-3. `f-divergences.ipynb`: core programs that generated the simulations in the chapter III about the f-divergences and also a part of chapter IV
+1. `ipm.ipynb`: core programs that generated the simulations in chapter II about the Kantorovich metric (an IPM) and also a part of chapter IV
+1. `f-divergences.ipynb`: core programs that generated the simulations in chapter III about the f-divergences and also a part of chapter IV
 
-Further information is given in the beginning of the notebooks themselves.
+More information is given in the beginning of the notebooks themselves.
