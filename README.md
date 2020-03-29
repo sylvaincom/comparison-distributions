@@ -9,7 +9,7 @@
 - _Methods_: Integral probability metrics (e.g. Kantorovich metric), f-divergences (e.g. Kullback-Leibler).
 - _Programming_: Python.
 - _Result_: We empirically show that a new method for simulating the Choquet integral is "correct".
-- _Links:_  [[report](https://sylvaincom.github.io/docs/comparison_distributions_report.pdf)] [[slides](https://sylvaincom.github.io/docs/comparison_distributions_slides.pdf)]
+- _Links:_  [[full 62 pages report](https://sylvaincom.github.io/docs/comparison_distributions_report.pdf)] [[slides](https://sylvaincom.github.io/docs/comparison_distributions_slides.pdf)]
 
 ## Abstract
 
