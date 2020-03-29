@@ -4,16 +4,16 @@
 
 - _Author_: Sylvain Combettes
 - _Dates_: Oct. 2019 - Feb. 2020 (5 months)
-- _Context_: For my final-year project at Mines Nancy (one day per week), I did research for the [CNRS](http://www.cnrs.fr/en), the largest governmental research organisation in France.
+- _Context_: For my final-year project at Mines Nancy (one day per week), I did research for the [CNRS](http://www.cnrs.fr/en){:target="_blank"}, the largest governmental research organisation in France.
 - _Topic_: Comparison of empirical probability distributions. Application to the Choquet integral with stochastic inputs.
 - _Methods_: Integral probability metrics (e.g. Kantorovich metric), f-divergences (e.g. Kullback-Leibler).
 - _Programming_: Python.
 - _Result_: We empirically show that a new method for simulating the Choquet integral is "correct".
-- _Links:_  [[full 62 pages report](https://sylvaincom.github.io/docs/comparison_distributions_report.pdf)] [[slides](https://sylvaincom.github.io/docs/comparison_distributions_slides.pdf)]
+- _Links:_  [[full 62 pages report](https://sylvaincom.github.io/docs/comparison_distributions_report.pdf){:target="_blank"}] [[slides](https://sylvaincom.github.io/docs/comparison_distributions_slides.pdf)]
 
 ## Abstract
 
-This repository completes the report of my final-year project at [Ecole des Mines de Nancy](https://mines-nancy.univ-lorraine.fr/formation/ingenieur-civil-mines-icm/).
+This repository completes the report of my final-year project at [Ecole des Mines de Nancy](https://mines-nancy.univ-lorraine.fr/formation/ingenieur-civil-mines-icm/){:target="_blank"}.
 The end goal of this project is to **compare two empirical probability distributions** from two different methods for computing the Choquet integral.
 
 The first chapter is about the **Choquet integral**, a non-linear aggregation operator. We provide a lot of explanations and examples so that someone new to the Choquet integral can get a good understanding of it.
